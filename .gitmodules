@@ -1,0 +1,6 @@
+[submodule "dockerfiles/_out/tianon"]
+	path = dockerfiles/_out/tianon
+	url = git@github.com:mtulio/dockerfiles.git
+[submodule "bin/_out/tianon"]
+	path = bin/_out/tianon
+	url = git@github.com:mtulio/docker-bin.git
