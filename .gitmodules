@@ -1,6 +1,12 @@
-[submodule "dockerfiles/_out/tianon"]
-	path = dockerfiles/_out/tianon
+[submodule "dockerfiles/_external/centos"]
+	path = dockerfiles/_external/centos
+	url = git@github.com:CentOS/CentOS-Dockerfiles.git
+[submodule "dockerfiles/_external/tiamon"]
+	path = dockerfiles/_external/tiamon
 	url = git@github.com:mtulio/dockerfiles.git
-[submodule "bin/_out/tianon"]
-	path = bin/_out/tianon
+[submodule "bin/_external/tanon"]
+	path = bin/_external/tanon
+	url = git@github.com:mtulio/docker-bin.git
+[submodule "bin/_external/tianon"]
+	path = bin/_external/tianon
 	url = git@github.com:mtulio/docker-bin.git
